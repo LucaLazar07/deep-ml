@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**1** solved · 1 problems · 0 labs · 0 math
+**2** solved · 1 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-11-17 | [solution](problems/0037-calculate-correlation-matrix) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-11-17 | [solution](math/0002-multivariate-calculus) |
 
 ---
 
